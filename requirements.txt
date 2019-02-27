@@ -1,1 +1,5 @@
-:wq
+Django==2.1.7
+django-cors-headers==2.4.0
+djangorestframework==3.9.1
+mysqlclient==1.4.2.post1
+pytz==2018.9
